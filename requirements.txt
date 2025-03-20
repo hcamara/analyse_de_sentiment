@@ -1,0 +1,6 @@
+cassandra_driver
+Flask
+pandas
+scikit_learn
+Unidecode
+xgboost
